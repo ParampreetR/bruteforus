@@ -1,0 +1,6 @@
+/home
+/root
+/admin
+/kick
+/api
+/search
