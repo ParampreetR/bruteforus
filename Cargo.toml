@@ -4,8 +4,11 @@ version = "0.1.0"
 authors = ["parampreetR <raja.rai6789@gmail.com>"]
 edition = "2018"
 build = "build.rs"
+description = "bruteforus is a simple tool written in rust for bruteforus URLs and find some hidden files and folders on webserver"
+license = "MIT"
+repository = "https://github.com/ParampreetR/bruteforus/"
+readme = "README.md"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 chrono = "0.4.19"
